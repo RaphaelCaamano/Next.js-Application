@@ -27,7 +27,7 @@ export default function Home() {
       >
         <main className={styles.main}>
           
-          <h1>Raphael's amazing Next app + Git!</h1>
+          <h1>Raphael's Amazing Next App + Git!</h1>
 
           <div className={styles.ctas}>
             <a
