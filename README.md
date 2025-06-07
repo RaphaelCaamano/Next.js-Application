@@ -1,5 +1,8 @@
 # Next.js-Application
 
+![a8408f02c3421b84cf82182648fced17](https://github.com/user-attachments/assets/d6d6d043-de01-49e4-b2cc-8cb374f9703e)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
