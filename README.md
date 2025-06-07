@@ -2,7 +2,7 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
-![a8408f02c3421b84cf82182648fced17](https://github.com/user-attachments/assets/c1a63e88-71c0-42a9-b89f-2bba7130b64f)
+![a8408f02c3421b84cf82182648fced17](https://github.com/user-attachments/assets/2da135c9-c8e2-42be-8325-3ca4ebb29fef)
 
 
 ## Getting Started
